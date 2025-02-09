@@ -12,26 +12,27 @@
 	display: flex;
 }
 .promo__content {
-	width: 100%;
+	width: 80%;
 }
 .promo__bg {
 	height: 60vh;
 	background: url('../img/2.jpg') center center/cover no-repeat;
-	background-position: bottom;
-	padding: 107px 0 0 61px;
+	background-position: center;
+	padding: 80px 0 0 61px;
 }
 .promo__genre {
 	font-weight: bold;
 	font-size: 18px;
 	line-height: 21px;
-	color: #ffffff;
+	color: #171717;
 	text-transform: uppercase;
 }
 .promo__title {
 	font-weight: bold;
 	font-size: 48px;
 	line-height: 56px;
-	color: #ffffff;
+	color: #171717;
+
 	text-transform: uppercase;
 }
 .promo__descr {
@@ -39,7 +40,8 @@
 	font-weight: bold;
 	font-size: 18px;
 	line-height: 21px;
-	color: #ffffff;
+	color: #171717;
+
 	text-transform: uppercase;
 }
 .promo__ratings {
@@ -49,7 +51,8 @@
 	font-weight: bold;
 	font-size: 18px;
 	line-height: 21px;
-	color: #f64c72;
+	color: #171717;
+
 	margin-right: 25px;
 }
 .promo__interactive {
